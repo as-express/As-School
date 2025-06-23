@@ -4,8 +4,8 @@ import Code from '../models/Code.js'
 const transporter = nodemailer.createTransport({
   service: 'gmail',
   auth: {
-    user: "miko.mikoo1999@gmail.com",
-    pass: "uohw jaeo fswk djps",
+    user: "" // user,
+    pass: "" // pass,
   },
 });
 
